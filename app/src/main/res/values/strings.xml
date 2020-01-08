@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Chic</string>
+
+    <string-array name="items">
+        <item>18 – 30 °C</item>
+        <item>0 – 17 °C</item>
+        <item>-20 – 0 °C</item>
+    </string-array>
+
+</resources>

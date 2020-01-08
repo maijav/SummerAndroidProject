@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#120938</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="background">#120938</color>
+    <color name="fontColor">#D1B219</color>
+    <color name="palkki">#6F4FFF</color>
+    <color name="fontColor2">#2B382B</color>
+    <color name="background2">#A3D6A3</color>
+    <color name="palkki2">#91BD91</color>
+</resources>

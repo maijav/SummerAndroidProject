@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent" android:layout_height="match_parent">
+
+    //This is the layout file for an individual list element (category) on the start activity
+
+    <TextView
+        android:id="@+id/nameTextView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textColor="@color/fontColor"
+        android:fontFamily="@font/norican_regular"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginStart="27dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginTop="23dp"
+        android:layout_marginEnd="223dp"
+        android:layout_marginRight="223dp"
+        android:text="Name"
+        android:textSize="24sp" />
+
+    <ImageView
+        android:id="@+id/categoryImg"
+        android:layout_width="115dp"
+        android:layout_height="101dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginLeft="253dp"
+        android:layout_marginTop="-4dp"
+        app:srcCompat="@drawable/sunny" />
+
+</RelativeLayout>
